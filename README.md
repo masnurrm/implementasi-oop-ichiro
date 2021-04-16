@@ -10,7 +10,7 @@ Departemen: Teknik Informatika 2020 <br/>
 
 ## Implementasi: Kafe Ikio 
 ### Penjelasan Umum
-Program `kafe-python` ini menggunakan konsep kasir pada sebuah kafe. Program ini menggunakan 5 <i>class</>, yaitu `MenuItem`, `Drink`, `Signature`, `Food`, dan `Snack`. 
+Program `kafe-python` ini menggunakan konsep kasir pada sebuah kafe. Program ini menggunakan 5 <i>class</i>, yaitu `MenuItem`, `Drink`, `Signature`, `Food`, dan `Snack`. 
 
 ### Penjelasan Class
 #### Class Menu Item
