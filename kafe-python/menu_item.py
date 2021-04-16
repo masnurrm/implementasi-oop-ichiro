@@ -4,7 +4,7 @@ class MenuItem:
         self.price = price
 
     def info(self):
-        return self.name + ': $' + str(self.price)
+        return self.name + ': Rp' + str(self.price)
 
     def get_total_price(self, count):
         total_price = self.price * count
