@@ -2,9 +2,9 @@
 Implementasi OOP untuk magang tim Ichiro
 
 <h2> Identitas </h2>
-Nama<table>: Nur Muhammad 'Ainul Yaqin
-NRP<table>: 5025201011
-Departemen<table>: Teknik Informatika 2020
+Nama\t: Nur Muhammad 'Ainul Yaqin
+NRP\t: 5025201011
+Departemen\t: Teknik Informatika 2020
 
 <h2>Implementasi: Kafe Ikio </h2>
 <h3>Penjelasan Umum</h3>
