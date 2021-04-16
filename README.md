@@ -1,2 +1,5 @@
 # implementasi-oop-ichiro
- Implementasi OOP untuk magang tim Ichiro
+
+Implementasi OOP untuk magang tim Ichiro
+
+ 
