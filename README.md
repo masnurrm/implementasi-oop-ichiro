@@ -8,6 +8,6 @@ Departemen: Teknik Informatika 2020 <br/>
 
 <h2>Implementasi: Kafe Ikio </h2>
 <h3>Penjelasan Umum</h3>
-<p>Pada program Kafe Ikio ini, saya menggunakan konsep kasir pada sebuah kafe. dalam program ter</p>
+<p>Pada program `kafe-python` ini, saya menggunakan konsep kasir pada sebuah kafe. dalam program ter</p>
 
  
