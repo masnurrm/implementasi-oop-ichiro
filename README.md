@@ -7,7 +7,7 @@ NRP: 5025201011
 Departemen: Teknik Informatika 2020
 
 # Implementasi: Kafe Ikio
-<h1>Penjelasan Umum</h1>
+<b>Penjelasan Umum</b>
 <p>Pada program <b>Kafe Ikio</b> ini, saya menggunakan konsep kasir pada sebuah kafe. dalam program ter</p>
 
  
