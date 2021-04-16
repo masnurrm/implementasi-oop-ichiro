@@ -1,4 +1,4 @@
-import utils
+import suit
 import hompimpa
 import random
 
