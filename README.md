@@ -1,5 +1,5 @@
 # Implementasi OOP
-Implementasi OOP untuk magang tim Ichiro
+Implementasi OOP untuk tugas magang tim Ichiro
 
 ## Identitas
 Nama: Nur Muhammad 'Ainul Yaqin <br/>
