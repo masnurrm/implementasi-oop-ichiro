@@ -13,19 +13,19 @@ Departemen: Teknik Informatika 2020 <br/>
 Program `kafe-python` ini menggunakan konsep kasir pada sebuah kafe. Program ini menggunakan 5 <i>class</i>, yaitu `MenuItem`, `Drink`, `Signature`, `Food`, dan `Snack`. Gunakan `script.py` untuk menjalankan (run) program ini.
 
 ### Penjelasan Class
-#### Class Menu Item
+#### 1. Class Menu Item
 Pada <i>class</i> `MenuItem` ini, terdapat 4 fungsi. Pertama, fungsi `__init__` dengan parameter `self`, `name`, dan `price` digunakan untuk menginisialisasi nama dan harga menu. Kedua, fungsi `info` dengan parameter `self` digunakan untuk mengembalikan nama menu dan harga menu, yang selanjutnya akan digunakan untuk melakukan output `print`. Ketiga, fungsi `get_total_price` dengan parameter `self` dan `count` yang digunakan untuk menghitung harga dari menu yang dipilih, termasuk menambahkan diskon sesuai dengan jumlah pesanan `count`. Fungsi ini akan mengembalikan total harga dari menu tersebut. Terakhir, fungsi `get_total_snack_price` dengan parameter `self` dan `count` yang digunakan untuk menghitung harga dari menu snack dan mengembalikan total harga dari menu snack tersebut.
 
-#### Class Drink
+#### 2. Class Drink
 Pada <i>class</i> `Drink` ini, terdapat pewarisan atau <i>inheritance</i> dari class `MenuItem`. Terdapat 2 fungsi yang merupakan pewarisan dengan beberapa penambahan atau perubahan, yaitu fungsi `__init__` dan `info`. Pertama, pada fungsi `__init__` dengan parameter `self`, `name`, `price`, dan `volume`, terdapat pewarisan pada inisialisasi nama dan harga. Kemudian, ditambahkan inisialisasi pada volume dari minuman. Kedua, pada fungsi `info` juga terdapat pewarisan, dan hanya ditambahkan volume pada pengembaliannya.  
 
-#### Class Signature
+#### 3. Class Signature
 Pada <i>class</i> `Signature` ini, terdapat pewarisan atau <i>inheritance</i> dari class `MenuItem`. Terdapat 2 fungsi yang merupakan pewarisan dengan beberapa penambahan atau perubahan, yaitu fungsi `__init__` dan `info`. Pertama, pada fungsi `__init__` dengan parameter `self`, `name`, `price`, dan `volume`, terdapat pewarisan pada inisialisasi nama dan harga. Kemudian, ditambahkan inisialisasi pada volume dari minuman signature. Kedua, pada fungsi `info` juga terdapat pewarisan, dan hanya ditambahkan volume pada pengembaliannya.  
 
-#### Class Food
+#### 4. Class Food
 Pada <i>class</i> `Food` ini, terdapat pewarisan atau <i>inheritance</i> dari class `MenuItem`. Terdapat 2 fungsi yang merupakan pewarisan dengan beberapa penambahan atau perubahan, yaitu fungsi `__init__` dan `info` serta ada fungsi `calorie_info`. Pertama, pada fungsi `__init__` dengan parameter `self`, `name`, `price`, dan `calorie_count`, terdapat pewarisan pada inisialisasi nama dan harga. Kemudian, ditambahkan inisialisasi pada kalori dari makanan. Kedua, pada fungsi `info` juga terdapat pewarisan, dan hanya ditambahkan kalori pada pengembaliannya. Dan ketiga, terdapat fungsi `calorie_info` dengan parameter `self` yang akan menampilkan nilai kalori makanan apabila fungsi dipanggil.
 
-#### Class Snack
+#### 5. Class Snack
 Pada <i>class</i> `Snack` ini, terdapat pewarisan atau <i>inheritance</i> dari class `MenuItem`. Terdapat 2 fungsi yang merupakan pewarisan dengan beberapa penambahan atau perubahan, yaitu fungsi `__init__` dan `info` serta ada fungsi `calorie_info`. Pertama, pada fungsi `__init__` dengan parameter `self`, `name`, `price`, dan `calorie_count`, terdapat pewarisan pada inisialisasi nama dan harga. Kemudian, ditambahkan inisialisasi pada kalori dari snack. Kedua, pada fungsi `info` juga terdapat pewarisan, dan hanya ditambahkan kalori pada pengembaliannya. Dan ketiga, terdapat fungsi `calorie_info` dengan parameter `self` yang akan menampilkan nilai kalori snack apabila fungsi dipanggil.
 
 
