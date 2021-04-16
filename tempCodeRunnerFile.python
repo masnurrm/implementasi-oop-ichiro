@@ -1,0 +1,4 @@
+import random
+acak = "ABCDE0123456789"
+tampil = ''.join(random.sample(acak,5))
+print(tampil)
